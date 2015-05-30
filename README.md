@@ -1,3 +1,3 @@
-## An Implementation of IntegerToString and StringToInteger conversion in Java
+## Java Conversions: int -> String and String -> int
 
 Elements of Programming Interviews problem 7.1.
